@@ -32,9 +32,6 @@ For more detailed descriptions and other fascinating projects, check out [UBC's 
 - **Databases**: Oracle DB, MySQL, PostgreSQL, DynamoDB, Redshift
 - **Others**: Microservices, Serverless Architecture, CI/CD pipelines, GenAI
 
-### 📈 GitHub Stats
-
-![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chriscaram&show_icons=true)
 
 ### 📫 How to reach me:
 
