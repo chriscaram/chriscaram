@@ -1,60 +1,54 @@
-# Hi, I'm Christian Castro! 👋
+# Hi, I'm Christian Castro 👋
 
-## AWS Senior Solutions Architect
+## Senior Solutions Architect at AWS | Cloud Innovation Centre
 
-Welcome to my GitHub profile! As an AWS Certified Solutions Architect with a Bachelor's degree in Computer Engineering from Universidad Iberoamericana Leon, Mexico, I specialize in creating innovative, scalable, and secure cloud solutions. With extensive experience in AWS, my expertise lies in the intersection of cloud computing and software development, focusing on delivering impactful solutions in healthcare, education, government, and finance sectors.
+I design cloud and AI systems that have to work in the real world. I lead prototype work with the AWS Cloud Innovation Centre at the University of British Columbia, helping teams go from idea to working solution on AWS.
 
-### 🌱 What I'm currently working on:
+### 🌱 What I'm working on
 
-- I am a Senior Solutions Architect for an AWS Cloud Innovation Center, in Vancouver, Canada, where I assist and guide teams at the University of British Columbia in implementing prototypes on AWS.
-- Current project involvements include:
-   - **Invasive Plants Identification App**: Addressing challenges in identifying and managing invasive plant species.
-   - **Student Advising Assistant**: Utilizing large language models and generative AI to enhance student advising services.
-   - **Patient Dashboard for Optimizing Sedation**: Developing a dashboard for efficient patient care in sedation processes.
-   - **Using the Cloud to Accelerate Machine Learning Models**: Assisting in a project for storing, accessing, and processing echocardiogram videos on AWS cloud.
-- Exploring AWS services for Machine Learning, Gen AI, Serverless Computing, Containers, and Core Services.
+* **AWS Cloud Innovation Centre at UBC**: guiding teams through prototypes on AWS, including generative AI projects such as:
+  * [**LAIGO**](https://github.com/UBC-CIC/LAIGO), a legal AI tool built on Amazon Bedrock.
+  * [**Multi-Agent Quantum Materials Assistant**](https://github.com/UBC-CIC/Multi-Agent-Quantum-Materials-Assistant), a supervisor and specialist agent system using the Strands Agents SDK and MCP servers to take researchers from materials data to quantum circuits.
+  * [**Patient Interaction Practice Tool**](https://github.com/UBC-CIC/PIPT), a pharmacy education platform where students practice with AI patient personas over text and voice, built on Amazon Bedrock and Bedrock AgentCore.
+* Going deep on agentic AI: agent architectures (ReAct, orchestrator and worker, evaluator and optimizer), MCP gateways, Bedrock AgentCore and AI-assisted development workflows with Claude Code and Kiro.
 
-For more detailed descriptions and other fascinating projects, check out [UBC's CIC Projects](https://cic.ubc.ca/projects/).
-
-
-### 🚀 Quick Stats
-
-- 🏢 Currently working at a Cloud Innovation Center as an AWS Senior Solutions Architect focused on AI solutions.
-- 📚 AWS Certified Solutions Architect – Professional.
-- 💻 Over 15 years of experience in software development and cloud computing architecture.
+More on the CIC work: [UBC CIC Projects](https://cic.ubc.ca/projects/)
 
 ### 💼 Technical Skills
 
-- **Cloud Services**: AWS, Azure, GCP
-- **AI and Machine Learning**: Amazon SageMaker, Amazon Bedrock, Amazon Rekognition, Amazon Textract, Amazon Polly, Amazon Transcribe, Amazon Lex, Amazon Comprehend, Amazon Kendra.
-- **Programming**: Python, JavaScript, Java, Grails, Spring, Hibernate
-- **Containers**: Amazon ECS, Amazon EKS, AWS Fargate, and AWS App Runner, Kubernetes, Docker, Prometheus, Grafana.
-- **Databases**: Oracle DB, MySQL, PostgreSQL, DynamoDB, Redshift
-- **Others**: Microservices, Serverless Architecture, CI/CD pipelines, GenAI
-
-
-### 📫 How to reach me:
-
-- LinkedIn: [Christian Castro](https://www.linkedin.com/in/ccr005/)
-- Email: chris.iscara@gmail.com
+* **Agentic AI**: Amazon Bedrock, Bedrock AgentCore, Strands Agents SDK, MCP, Claude Code, Kiro
+* **AI and ML**: SageMaker, Rekognition, Textract, Transcribe, Polly, Lex, Comprehend, Kendra
+* **Cloud**: AWS (primary), Azure, GCP
+* **Infrastructure as code**: AWS CDK, SAM, CloudFormation
+* **Languages**: Python, TypeScript/Node.js, Java, Go
+* **Containers**: ECS, EKS, Fargate, App Runner, Kubernetes, Docker
+* **Data**: PostgreSQL, MySQL, DynamoDB, Redshift, Oracle
+* **Practices**: serverless, microservices, CI/CD, Well-Architected
 
 ### 📚 Certifications
 
-- AWS Certified Solutions Architect – Associate & Professional
-- AWS Certified Developer – Associate
-- AWS Certified DevOps Engineer – Professional
-- Microsoft Specialist: Implementing Microsoft Azure Infrastructure Solutions
-- TOGAF 9 Certified
+* AWS Certified Solutions Architect (Associate and Professional)
+* AWS Certified Developer, Associate
+* AWS Certified DevOps Engineer, Professional
+* Microsoft Specialist: Implementing Microsoft Azure Infrastructure Solutions
+* TOGAF 9
 
 ### 🌟 Highlights
 
-- Featured in several AWS Latinoamerica podcast episodes discussing various topics in cloud computing and AWS services:
-   - [Security in Amazon EKS](https://open.spotify.com/episode/3FqZY16TIIXkDA1jlcC09O)
-   - [CI/CD with Amazon ECS](https://open.spotify.com/episode/59rxilTnbVbOSEKHhL29cQ)
-   - [The National Electoral Institute (INE) and the largest elections in the history of Mexico supported by AWS](https://open.spotify.com/episode/4AcCRiZO4f9cfnsHtBsPrU?si=TscLs-4STEy4pTXLGrx9qw&dl_branch=1)
-   - [Containers in AWS - Where to start? What are my options?](https://open.spotify.com/episode/7jBcquuVS49LTMcHZ09TUt?si=-RvHGiNjT8mf_uWn6NRjIA)
-- Authored AWS blog posts:
-   - [Using AWS Well-Architected Framework for Critical Public Sector Workloads](https://aws.amazon.com/es/blogs/aws-spanish/usando-el-marco-de-buena-arquitectura-para-correr-cargas-criticas-de-sector-publico/)
-   - [Modernizing Java Applications on Oracle WebLogic with AWS App2Container](https://aws.amazon.com/es/blogs/aws-spanish/modernice-sus-aplicaciones-java-en-oracle-weblogic-usando-aws-app2container/)
+Authored AWS blog posts:
 
+* [University of British Columbia Cloud Innovation Centre: Prototyping generative AI solutions using AWS](https://aws.amazon.com/blogs/publicsector/university-of-british-columbia-cloud-innovation-centre-prototyping-generative-ai-solutions-using-aws/)
+* [University of British Columbia Cloud Innovation Centre: Governing an innovation hub using AWS management services](https://aws.amazon.com/blogs/publicsector/university-of-british-columbia-cloud-innovation-centre-governing-an-innovation-hub-using-aws-management-services/)
+* [Using AWS Well-Architected Framework for Critical Public Sector Workloads](https://aws.amazon.com/es/blogs/aws-spanish/usando-el-marco-de-buena-arquitectura-para-correr-cargas-criticas-de-sector-publico/)
+* [Modernizing Java Applications on Oracle WebLogic with AWS App2Container](https://aws.amazon.com/es/blogs/aws-spanish/modernice-sus-aplicaciones-java-en-oracle-weblogic-usando-aws-app2container/)
 
+Featured in AWS Latinoamérica podcast episodes on cloud computing and AWS services:
+
+* [Security in Amazon EKS](https://open.spotify.com/episode/3FqZY16TIIXkDA1jlcC09O)
+* [CI/CD with Amazon ECS](https://open.spotify.com/episode/59rxilTnbVbOSEKHhL29cQ)
+* [The National Electoral Institute (INE) and the largest elections in the history of Mexico supported by AWS](https://open.spotify.com/episode/4AcCRiZO4f9cfnsHtBsPrU)
+* [Containers in AWS: Where to start? What are my options?](https://open.spotify.com/episode/7jBcquuVS49LTMcHZ09TUt)
+
+### 📫 Reach me
+
+LinkedIn: [Christian Castro](https://www.linkedin.com/in/ccr005/)
